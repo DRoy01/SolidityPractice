@@ -16,3 +16,10 @@ button{
     margin: 10px 0px 5px 0px;
     
 }
+
+#successMessageContainer {
+    width: 50%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+}
